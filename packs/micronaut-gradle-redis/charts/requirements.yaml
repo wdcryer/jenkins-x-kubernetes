@@ -1,0 +1,6 @@
+dependencies:
+- alias: REPLACE_ME_APP_NAME-redis
+  name: redis
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 6.1.0
+
